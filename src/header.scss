@@ -1,0 +1,28 @@
+.logo {
+  height: 90px;
+  font-size: 3.2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+
+}
+
+.nav {
+  height: 100px;
+  text-align: center;
+  &__item {
+    font-size: 1.9rem;
+    margin: 15px;
+    cursor: pointer;
+    &:active {
+      border-bottom: 1px solid blue;
+    }
+  }
+}
+
+
+
+.header {
+  height: 200px;
+  padding: 10px;
+}

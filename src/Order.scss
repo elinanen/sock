@@ -1,0 +1,18 @@
+.order {
+  background-color: #039BE5;
+  display: inline-block;
+  width: 300px;
+  color: white;
+  padding: 5px 15px;
+  min-height: 200px;
+  height: auto;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.order-item {
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
